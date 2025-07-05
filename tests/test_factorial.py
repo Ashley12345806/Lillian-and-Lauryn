@@ -17,3 +17,6 @@ def test_factorial_for_3():
 
 def test_factorial_for_4():
     assert factorial(4) == 24
+
+def test_factorial_for_45():
+    assert factorial(45) == 11962222186597786209152000000000
