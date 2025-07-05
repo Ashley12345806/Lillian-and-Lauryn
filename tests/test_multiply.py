@@ -8,3 +8,6 @@ def test_multiply_first_cycle():
 
 def test_multiply_second_cycle():
     assert multiply(2, 2) == 4
+
+def test_multiply_third_cycle():
+    assert multiply(3, 3) == 9
