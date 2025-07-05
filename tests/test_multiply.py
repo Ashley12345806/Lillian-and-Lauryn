@@ -14,3 +14,6 @@ def test_multiply_third_cycle():
 
 def test_multiply_fourth_cycle():
     assert multiply(4, 4) == 16
+
+def test_multiply_fifth_cycle():
+    assert multiply(23,45) == 1035
