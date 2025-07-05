@@ -5,3 +5,6 @@ from multiply import multiply
 
 def test_multiply_first_cycle():
     assert multiply(1, 1) == 1
+
+def test_multiply_second_cycle():
+    assert multiply(2, 2) == 4
