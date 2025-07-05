@@ -9,5 +9,8 @@ def test_factorial_for_0():
 def test_factorial_for_1():
     assert factorial(1) == 1
 
+def test_factorial_for_2():
+    assert factorial(2) == 2
+
 def test_factorial_for_3():
     assert factorial(3) == 6
