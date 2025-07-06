@@ -1,3 +1,3 @@
-def fibonacci(n):
-    if n == 0:
+def fibonacci(x):
+    if x == 0:
         return 0
